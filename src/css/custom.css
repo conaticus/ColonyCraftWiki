@@ -1,0 +1,41 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #5ca343; /* Grass green */
+  --ifm-color-primary-dark: #4b8937;
+  --ifm-color-primary-darker: #417c30;
+  --ifm-color-primary-darkest: #356727;
+  --ifm-color-primary-light: #6cc552;
+  --ifm-color-primary-lighter: #78d55f;
+  --ifm-color-primary-lightest: #90e87a;
+
+  --ifm-font-color-base: #2d2d2d;
+  --ifm-background-color: #f4f1ea; /* Light dirt tone */
+  --ifm-navbar-background-color: #2f2f2f;
+  --ifm-navbar-link-color: #ffffff;
+  --ifm-footer-background-color: #1c1c1c;
+  --ifm-footer-color: #cccccc;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* [data-theme="dark"] {
+  --ifm-color-primary: #5ca343; /* Grass green */
+/* --ifm-color-primary-dark: #4b8937; */
+/* --ifm-color-primary-darker: #417c30;
+  --ifm-color-primary-darkest: #356727;
+  --ifm-color-primary-light: #6cc552;
+  --ifm-color-primary-lighter: #78d55f;
+  --ifm-color-primary-lightest: #90e87a;
+
+  --ifm-font-color-base: #2d2d2d;
+  --ifm-background-color: #f4f1ea; /* Light dirt tone */
+/* --ifm-navbar-background-color: #2f2f2f;
+  --ifm-navbar-link-color: #ffffff;
+  --ifm-footer-background-color: #1c1c1c;
+  --ifm-footer-color: #cccccc; */
+/* } */
