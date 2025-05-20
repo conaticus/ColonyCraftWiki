@@ -1,12 +1,12 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Ores & Locations
 
 ### Obtaining Ores
 
-It's important to check what skills you need (if any) to mine the ore you are looking for. You can check if an ore is possible for you to mine by checking `/skill_perks Mining`.
+It's important to check what skills you need (if any) to mine the ore you are looking for. You can check if an ore is possible for you to mine by either reading [Mining Levels](/docs/skills/mining.md#levels) or running `/skill_perks Mining` in-game.
 
 ### Ore Y Levels
 
