@@ -17,7 +17,10 @@ Crops can be farmed on your own land or found randomly across the map:
 
 ### Creating a Farm
 
-Seeds can only be planted on claimed land, follow our [Creating Claims](/docs/claims/claims.md) tutorial to find out how to claim land. Once these have been planted, and your crops have grown, you can harvest them for XP
+Seeds can only be planted on claimed land, follow our [Creating Claims](/docs/claims/claims.md) tutorial to find out how to claim land. Once these have been planted, and your crops have grown, you can harvest them for XP.
+
+**Growth Rates** \
+By default, crops grow 2x slower than usual rates in Minecraft. This is increased to the usual rate when reaching Level 3. When you are offline, crops grow 4x slower, no matter what level the player is.
 
 ### Bees
 
@@ -29,36 +32,45 @@ Bees can be used to accelerate crop growth on your farm. You first need a bees n
 
 > _Oak, birch, or cherry trees grown from saplings that are within 2 blocks (including diagonally) of a flower on the same Y-level have a 5% chance to grow with a bee nest containing 2–3 bees. This holds true in any biome in any dimension, and for any flower including wither roses and flowering azaleas._
 
-If a bee is lured (using a flower), or flies over your crops, it has a chance of fertilizing them, if this happens you will gain XP and your crop's growth will be accelerated:
+Bees carrying pollen can be used to accelerate the growth of your crops:
+
+<div style={{ display: "flex" }}>
+    <div>
+        <img src="/img/bee.webp" width="250" />
+        Bee without necter.
+    </div>
+
+    <div>
+        <img src="/img/bee_nectar.webp" width="250" />
+        Bee with necter.
+    </div>
+</div>
+
+
+If a bee with necter is lured (using a flower), or flies over your crops, it has a chance of pollenating them, if this happens you will gain XP and your crop's growth will be accelerated:
 
 <img src="/img/bees.gif" />
 
 ### Bonemeal
 
-At level one you are able to craft bonemeal. This can be used to accelerate the growth of your crops. Bones are required to craft bonemeal, however, which can only be obtained by players with the [Combat](/docs/skills/combat.md) skill.
+At level 1 you are able to craft bonemeal. This can be used to accelerate the growth of your crops. Bones are required to craft bonemeal, however, which can only be obtained by players with the Combat Skill [(Learn More)](/docs/skills/combat.md#bones).
 
 ### Levels
 
-Level 1: Can Mine Emeralds
+Level 1: 20 Crops Per Claim, Can Use Bonemeal
 
-Level 2: Can Mine Acanthite Ore
+Level 2: 40 Crops Per Claim, Can Cook Food
 
-Level 3: Can Mine Netherite (Ancient Debris)
+Level 3: Can Harvest Honey, Crops Grow 2x Faster
 
-Level 4: Can Mine Valtronium
+Level 4: 60 Crops Per Claim, Can Craft Bee Hive
 
-Level 5: N/A
+Level 5: 100 Crops per Claim
 
 ### XP Table
 
-|          **Ore**           | **XP Amount** |
-| :------------------------: | :-----------: |
-| Ancient Debris, Valtronium |      250      |
-|          Emerald           |      150      |
-|         Acanthite          |      100      |
-|          Diamond           |      80       |
-|          Limonite          |      20       |
-|   Gold, Redstone, Lapis    |      15       |
-|            Iron            |      10       |
-|            Coal            |       7       |
-|           Stone            |       1       |
+|        Crop       | XP Amount |
+|:-----------------:|:---------:|
+|   Melon, Pumpkin  |    400    |
+| Carrots, Potatoes |    200    |
+|       Wheat       |    100    |
