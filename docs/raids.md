@@ -25,20 +25,20 @@ Example:
 
 Well protected bases will use protection blocks to protect their items. These will be harder to destroy than regular blocks. Bare in mind that iron doors/iron trap doors cannot be destroyed with a raid pickaxe. Refer to this table to see the rates for different blocks:
 
-|         **Tool**          |        **Block**        | **Clicks to Destroy** |
-| :-----------------------: | :---------------------: | :-------------------: |
-|  **Basic Raid Pickaxe**   |      Regular Block      |          20           |
-|                           |  Weak Protection Block  |          100          |
-|                           | Medium Protection Block |    ❌ Not Possible    |
-|                           | Strong Protection Block |    ❌ Not Possible    |
-|                           | Iron Door/Iron Trapdoor |    ❌ Not Possible    |
-| **Advanced Raid Pickaxe** |      Regular Block      |          10           |
-|                           |  Weak Protection Block  |          50           |
-|                           | Medium Protection Block |          100          |
-|                           | Strong Protection Block |    ❌ Not Possible    |
-|                           | Iron Door/Iron Trapdoor |    ❌ Not Possible    |
-| **Powerful Raid Pickaxe** |      Regular Block      |           5           |
-|                           |  Weak Protection Block  |          20           |
-|                           | Medium Protection Block |          50           |
-|                           | Strong Protection Block |          100          |
-|                           | Iron Door/Iron Trapdoor |    ❌ Not Possible    |
+|          **Tool**         |        **Block**        | **Clicks to Destroy** |
+|:-------------------------:|:-----------------------:|:---------------------:|
+|   **Basic Raid Pickaxe**  |      Regular Block      |          200          |
+|                           |  Weak Protection Block  |         1,000         |
+|                           | Medium Protection Block |     ❌ Not Possible    |
+|                           | Strong Protection Block |     ❌ Not Possible    |
+|                           | Iron Door/Iron Trapdoor |     ❌ Not Possible    |
+| **Advanced Raid Pickaxe** |      Regular Block      |          100          |
+|                           |  Weak Protection Block  |          500          |
+|                           | Medium Protection Block |         1,000         |
+|                           | Strong Protection Block |     ❌ Not Possible    |
+|                           | Iron Door/Iron Trapdoor |     ❌ Not Possible    |
+| **Powerful Raid Pickaxe** |      Regular Block      |           50          |
+|                           |  Weak Protection Block  |          200          |
+|                           | Medium Protection Block |          500          |
+|                           | Strong Protection Block |         1,000         |
+|                           | Iron Door/Iron Trapdoor |     ❌ Not Possible    |
