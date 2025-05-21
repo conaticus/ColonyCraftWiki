@@ -23,26 +23,31 @@ To begin with you can only create one claim, see the [Engineer](/docs/skills/eng
 3. Run `/claim_confirm` command to save the claim
 
 Demonstration:
-`VIDEO`
+<img src="/img/claims.gif" />
 
 ### Build Mode
+
 You run the `/claim_toggle_build_mode` command to assist in building safely inside your claims. This will prevent you from placing/breaking any blocks outside of your claimed land. This works across all claims. You can run this command again to disable it.
 
 ### List Claims
+
 The `/claims` command can be used to list the coordinates of all of your claims.
 
 ### Edit a Claim
+
 :::warning Warning
 Editing a claim will destroy all crops inside it.
 :::
 
 #### Edit Dimensions
+
 1. Stand over an existing claim
 2. Run `/claim_mode` command
 3. Define the new dimensions of your plot
 4. Run `/claim_confirm` & `/confirm edit` commands to save
 
 #### Edit Height
+
 The default height of claims in Colony Craft is 10 blocks up, 4 blocks down.
 
 When editing a claim's height, it will add (blocks up) or subtract (blocks down) from the height of the dimensions you defined for the claim (on the ground).
@@ -52,6 +57,7 @@ When editing a claim's height, it will add (blocks up) or subtract (blocks down)
 3. Run `/confirm edit`
 
 ### Delete a Claim
+
 :::warning Warning
 Deleting a claim will destroy all crops inside it.
 :::

@@ -7,4 +7,4 @@ sidebar_position: 6
 - 6x Feather
 - 1x Emerald Block
 
-`IMAGE`
+<img src="/img/elytra.png" />

@@ -11,17 +11,17 @@ Raid pickaxes can be used to raid other people's land and steal their items, see
 - 2x Gold Block
 - 3x Diamond Block
 
-`IMAGE`
+<img src="/img/basicraid.png" />
 
 ### Advanced Raid Pickaxe
 
 - 3x Diamond Block
 - 2x Emerald Block
 
-`IMAGE`
+<img src="/img/advancedraid.png" />
 
 ### Powerful Raid Pickaxe
 
 - 5x Emerald Block
 
-`IMAGE`
+<img src="/img/powerfulraid.png" />

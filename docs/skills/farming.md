@@ -44,12 +44,17 @@ Bees carrying pollen can be used to accelerate the growth of your crops:
         <img src="/img/bee_nectar.webp" width="250" />
         Bee with necter.
     </div>
-</div>
 
+</div>
 
 If a bee with necter is lured (using a flower), or flies over your crops, it has a chance of pollenating them, if this happens you will gain XP and your crop's growth will be accelerated:
 
 <img src="/img/bees.gif" />
+
+<br />
+<br />
+
+At Level 3 you can also harvest honey from bees nests which can be an excellent food source for players. At Level 4 you can craft bee hives to place directly in front of your farms (to pollenate crops faster).
 
 ### Bonemeal
 
@@ -63,14 +68,14 @@ Level 2: 40 Crops Per Claim, Can Cook Food
 
 Level 3: Can Harvest Honey, Crops Grow 2x Faster
 
-Level 4: 60 Crops Per Claim, Can Craft Bee Hive
+Level 4: 60 Crops Per Claim, Can Craft Bee Hive ([Vanilla Recipe](https://minecraft.fandom.com/wiki/Beehive#Crafting))
 
 Level 5: 100 Crops per Claim
 
 ### XP Table
 
-|        Crop       | XP Amount |
-|:-----------------:|:---------:|
-|   Melon, Pumpkin  |    400    |
+|       Crop        | XP Amount |
+| :---------------: | :-------: |
+|  Melon, Pumpkin   |    400    |
 | Carrots, Potatoes |    200    |
 |       Wheat       |    100    |

@@ -7,4 +7,4 @@ sidebar_position: 4
 - 6x Leather
 - 1x Emerald
 
-`IMAGE`
+<img src="/img/saddle.png" />

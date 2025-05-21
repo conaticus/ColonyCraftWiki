@@ -7,4 +7,4 @@ sidebar_position: 5
 - 8x Emerald
 - 1x Chest
 
-`IMAGE`
+<img src="/img/shulkerbox.png" />

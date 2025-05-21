@@ -22,3 +22,5 @@ To select a skill, use the `/skill_focus` command, and you will be presented wit
 You can hover over these to see their different perks, or alternatively use the `/skill_perks [skill]` command.
 
 You can click one to make it your Skill Focus! If you wish to change your skill focus, you can use the `/skill_focus` command again, but any progress will be lost.
+
+To check what skills you have at any time, use the `/skills` command. If you are in a colony, you can also use `/skills <playername>` to check the skills of another player in your colony.
