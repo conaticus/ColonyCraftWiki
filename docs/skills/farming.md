@@ -17,10 +17,10 @@ Crops can be farmed on your own land or found randomly across the map:
 
 ### Creating a Farm
 
-Seeds can only be planted on claimed land, follow our [Creating Claims](/docs/claims/claims.md) tutorial to find out how to claim land. Once these have been planted, and your crops have grown, you can harvest them for XP.
+Seeds can only be planted on claimed land, follow our [Claiming Land](/docs/claims/claims.md) tutorial to find out how to claim land. Once these have been planted, and your crops have grown, you can harvest them for XP.
 
 **Growth Rates** \
-By default, crops grow 2x slower than usual rates in Minecraft. This is increased to the usual rate when reaching Level 3. When you are offline, crops grow 4x slower, no matter what level the player is.
+Crops that are placed inside a claim grow 2x slower than usual rates in Minecraft. This is increased to the usual rate when reaching Level 3. When you are offline, crops grow 4x slower, no matter what level the player is.
 
 ### Bees
 
