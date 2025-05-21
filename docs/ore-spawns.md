@@ -34,7 +34,7 @@ The rest of the ores that occur spawn at vanilla Minecraft Y Levels (check Minec
 
 All ores in Colony Craft spawn across the whole map, however there are specific spots on the map where they may spawn more commonly. Here is a map to demonstrate the hotspot locations in the world:
 
-<img src="/img/Ore Distribution Graph.jpg" />
+<img src="/img/ore distribution graph.jpg" />
 
 See Also:
 
