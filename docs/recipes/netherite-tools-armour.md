@@ -8,4 +8,4 @@ As there is no Nether in Colony Craft, we have simplified the crafting process f
 
 See [Ores & Locations](/docs/ore-spawns) to learn where to find Netherite.
 
-<img src="/img/netherite.gif" size="35%" />
+<img src="/img/Netherite.gif" size="35%" />

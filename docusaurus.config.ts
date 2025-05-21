@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Colony Craft",
   tagline: "Learn how to play Colony Craft!",
-  favicon: "img/icon.png",
+  favicon: "img/Icon.png",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
@@ -73,7 +73,7 @@ const config: Config = {
       title: "Colony Craft Wiki",
       logo: {
         alt: "Colony Craft Logo",
-        src: "img/icon.png",
+        src: "img/Icon.png",
       },
       items: [
         {
