@@ -13,15 +13,15 @@ The combat skill can be progressed by killing mobs in the game. You unlock vario
 
 ### Levels
 
-Level 1: Diamond Sword
+Level 1: Can Craft & Use Diamond Sword
 
-Level 2: Diamond Axe, Bow & Crossbow
+Level 2: Can Craft & Use Diamond Axe, Bow & Crossbow
 
-Level 3: Netherite Sword
+Level 3: Can Craft & Use Netherite Sword
 
-Level 4: Netherite Axe
+Level 4: Can Craft & Use Netherite Axe
 
-Level 5: Netherite Armour
+Level 5: Can Craft & Use Netherite Armour
 
 ### Bones
 

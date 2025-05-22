@@ -14,8 +14,10 @@ Items kept inside containers (such as chests) in your land are not safe from bei
 
 ### Create a Claim
 
-:::note Note
-To begin with you can only create one claim, see the [Engineer](/docs/skills/engineer.md) skill for how to claim more land.
+:::info
+To begin with you are limited to **one claim** that is a maximum of **2,500 Blocks**.
+
+See the [Engineer](/docs/skills/engineer.md) skill for how you can claim more land.
 :::
 
 1. Run the `/claim_mode` command to enter claim mode

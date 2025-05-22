@@ -17,17 +17,17 @@ The Engineer skill is a special skill that is progressed when completing any oth
 
 - Up to 2 Claims
 - Up to 5,000 Blocks Per Claim
-- Access to redstone, redstone repeater, redstone comparator, sticky piston & piston
+- Can craft & use redstone, redstone repeater, redstone comparator, sticky piston & piston
 
 #### Level 2
 
 - Can Create Colonies
 - Up to 3 Claims
 - Up to 10,000 Blocks Per Claim
-- Access to dropper, hopper & daylight sensor
+- Can craft & use dropper, hopper & daylight sensor
 
 #### Level 3
 
 - Up to 4 Claims
 - Up to 30,000 Blocks Per Claim,
-- Access to trip wire, trapped chest, dispenser, observer
+- Can craft & use trip wire, trapped chest, dispenser, observer

@@ -12,6 +12,7 @@ Our skills system is quickly evolving, this article may become outdated. you can
 The mobility skill is progressed by moving long distances & carrying valuables.
 
 ### Gaining XP
+
 :::note Note
 Walking around in circles will not gain you XP, you have to actively move long distances for XP to be counted.
 :::
@@ -30,15 +31,16 @@ For example, if a player is carrying:
 
 Then:
 
-2 Iron Ore       × 2 XP      =   4 XP  
-20 Redstone      × 2 XP      =  40 XP  
-3 Emerald Blocks × 9 × 10 XP = 270 XP  
+2 Iron Ore × 2 XP = 4 XP  
+20 Redstone × 2 XP = 40 XP  
+3 Emerald Blocks × 9 × 10 XP = 270 XP
 
 Total Bonus XP: 4 + 40 + 270 = 314 XP  
 Blocks Covered: 300 XP  
-Final Total:    300 + 314 = **614 XP**
+Final Total: 300 + 314 = **614 XP**
 
 ### `/speed` command
+
 At Level 3, you gain access to the `/speed` command. This can be toggled (run again to turn it off) to give you Speed 1. If you enter combat with another player, the speed effect will be removed and you will be on a 5 minutes cooldown before you can use this command again.
 
 ### Levels
@@ -56,10 +58,10 @@ Level 5: Craft & Use Elytra
 ### XP Table
 
 |                    Valuable                    | XP Per Item |
-|:----------------------------------------------:|:-----------:|
-|             Strong Protection Block            |      40     |
-|             Medium Protection Block            |      20     |
-| Emerald, Valtronium, Netherite, Ancient Debris |      10     |
-|              Weak Protection Block             |      8      |
+| :--------------------------------------------: | :---------: |
+|            Strong Protection Block             |     40      |
+|            Medium Protection Block             |     20      |
+| Emerald, Valtronium, Netherite, Ancient Debris |     10      |
+|             Weak Protection Block              |      8      |
 |               Acanthite, Diamond               |      5      |
 |              Iron, Redstone, Gold              |      2      |

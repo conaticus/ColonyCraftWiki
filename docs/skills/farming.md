@@ -12,8 +12,12 @@ Our skills system is quickly evolving, this article may become outdated. You can
 The farming skill can be progressed by harvesting crops. Food is a scarce resource in Colony Craft and farmers are a very useful asset to all players in the server.
 
 Crops can be farmed on your own land or found randomly across the map:
-
 <img src="/img/crop.png" width="700" />
+
+<br />
+<br />
+
+Harvesting any crop will give you XP.
 
 ### Creating a Farm
 
