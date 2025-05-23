@@ -17,11 +17,11 @@ Crops can be farmed on your own land or found randomly across the map:
 <br />
 <br />
 
-Harvesting any crop will give you XP.
+Harvesting any **fully grown** crop will give you XP (See [XP Table](#xp-table)). Cocoa is the most common crop found across the map which spawns in jungles.
 
 ### Creating a Farm
 
-Seeds can only be planted on claimed land, follow our [Claiming Land](/docs/claims/claims.md) tutorial to find out how to claim land. Once these have been planted, and your crops have grown, you can harvest them for XP.
+Seeds can only be planted on claimed land, follow our [Claiming Land](/docs/claims/claims.md) tutorial to find out how to claim land. Once these have been planted, and your crops have fully grown, you can harvest them for XP.
 
 **Growth Rates** \
 Crops that are placed inside a claim grow 2x slower than usual rates in Minecraft. This is increased to the usual rate when reaching Level 3. When you are offline, crops grow 4x slower, no matter what level the player is.
@@ -58,7 +58,11 @@ If a bee with necter is lured (using a flower), or flies over your crops, it has
 <br />
 <br />
 
+### Harvesting Honey
+
 At Level 3 you can also harvest honey from bees nests which can be an excellent food source for players. At Level 4 you can craft bee hives to place directly in front of your farms (to pollenate crops faster).
+
+You can use a bottle/shears to harvest honey from a bees nest or hive. Harvesting honey from either of these will give you [XP](#xp-table)!
 
 ### Bonemeal
 
@@ -78,8 +82,14 @@ Level 5: 100 Crops per Claim
 
 ### XP Table
 
-|       Crop        | XP Amount |
-| :---------------: | :-------: |
-|  Melon, Pumpkin   |    400    |
-| Carrots, Potatoes |    200    |
-|       Wheat       |    100    |
+XP gained for harvesting crops/food sources:
+
+|         Harvest          | XP Amount |
+| :----------------------: | :-------: |
+|      Melon, Pumpkin      |    400    |
+| Honey, Carrots, Potatoes |    200    |
+|          Wheat           |    100    |
+|      Cocoa (grown)       |    200    |
+|    Cocoa (discovered)    |    50     |
+
+You can also gain XP for cooking meat in a furnace **(15XP per Cooked Meat)**.
