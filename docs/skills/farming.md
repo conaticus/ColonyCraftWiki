@@ -84,11 +84,10 @@ Level 5: 100 Crops per Claim
 
 XP gained for harvesting crops/food sources:
 
-|              Harvest               | XP Amount |
-| :--------------------------------: | :-------: |
-|   Melon, Pumpkin, Cocoa (grown)    |    200    |
-|      Honey, Carrots, Potatoes      |    200    |
-|               Wheat                |    100    |
-| Melon, Pumpkin, Cocoa (discovered) |    50     |
+|         Harvest          | XP Amount |
+| :----------------------: | :-------: |
+|          Honey           |    200    |
+| Wheat, Carrots, Potatoes |    100    |
+|  Melon, Pumpkin, Cocoa   |    25     |
 
 You can also gain XP for cooking meat in a furnace **(15XP per Cooked Meat)**.
