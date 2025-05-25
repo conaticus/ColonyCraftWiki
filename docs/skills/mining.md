@@ -18,15 +18,26 @@ See Also:
 
 ### Levels
 
-Level 1: Can Mine Emeralds
+#### Level 1
 
-Level 2: Can Mine Acanthite Ore
+- Can Mine Emeralds
 
-Level 3: Can Mine Netherite (Ancient Debris), Can Craft & Use Sponge [(See Recipe)](/docs/recipes/sponge.md)
+#### Level 2
 
-Level 4: Can Mine Valtronium
+- Can Mine Acanthite Ore
 
-Level 5: N/A
+#### Level 3
+
+- Can Mine Netherite (Ancient Debris)
+- Can Craft & Use Special Sponge [(See Here)](/docs/Special%20Items/sponge.md)
+
+#### Level 4
+
+- Can Mine Valtronium
+
+#### Level 5
+
+- N/A
 
 ### XP Table
 
