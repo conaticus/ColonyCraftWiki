@@ -29,11 +29,11 @@ See Also:
 #### Level 3
 
 - Can Mine Netherite (Ancient Debris)
-- Can Craft & Use Special Sponge [(See Here)](/docs/Special%20Items/sponge.md)
 
 #### Level 4
 
 - Can Mine Valtronium
+- Can Craft & Use Special Sponge [(See Here)](/docs/Special%20Items/sponge.md)
 
 #### Level 5
 
