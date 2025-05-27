@@ -8,7 +8,7 @@ A compass can be crafted by players with [Mobility](/docs/skills/mobility.md) Le
 
 Compasses can be used to navigate to a specific coordinate on the map. This can be done by:
 
-- Selecting the compass in your main hand (or off hand)
+- Selecting the compass in your main hand or off hand
 - Running the `/navigate x=<number> z=<number>` command
 
 This will set the target of your compass to that coordinate:
