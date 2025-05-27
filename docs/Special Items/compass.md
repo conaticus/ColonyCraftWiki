@@ -11,7 +11,7 @@ Compasses can be used to navigate to a specific coordinate on the map. This can 
 - Selecting the compass in your main hand (or off hand)
 - Running the `/navigate x=<number> z=<number>` command
 
-This will set the target of your comapss to that coordinate:
+This will set the target of your compass to that coordinate:
 <img src="/img/compass.png" width="60%" />
 
 Other aliases for the command are:
