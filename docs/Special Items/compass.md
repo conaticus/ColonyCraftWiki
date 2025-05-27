@@ -1,0 +1,18 @@
+---
+sidebar_position: 2
+---
+
+# Compass
+
+A compass can be crafted by players with [Mobility](/docs/skills/mobility.md) Level 2. This can be done with the [vanilla compass recipe](https://minecraft.fandom.com/wiki/Compass#Crafting).
+
+Compasses can be used to navigate to a specific coordinate on the map. You can do this with the `/navigate x=<number> z=<number>` command.
+
+This will set the target of your comapss to that coordinate:
+<img src="/img/compass.png" width="60%" />
+
+Other aliases for the command are:
+
+- `/compass_target`
+- `/target`
+- `/waypoint`

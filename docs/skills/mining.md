@@ -44,7 +44,7 @@ See Also:
 |          **Ore**           | **XP Amount** |
 | :------------------------: | :-----------: |
 | Ancient Debris, Valtronium |      250      |
-|          Emerald           |      150      |
+|          Emerald           |     150 n     |
 |         Acanthite          |      100      |
 |          Diamond           |      80       |
 |          Limonite          |      20       |

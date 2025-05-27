@@ -39,6 +39,12 @@ Total Bonus XP: 4 + 40 + 270 = 314 XP
 Blocks Covered: 300 XP  
 Final Total: 300 + 314 = **614 XP**
 
+### Special Compass
+
+At Level 2, you unlock the crafting recipe for a compass. This can be used to navigate to specific coordinates on the map.
+
+See Compass Guide: [Click Here](/docs/Special%20Items/compass.md)
+
 ### `/speed` command
 
 At Level 3, you gain access to the `/speed` command. This can be toggled (run again to turn it off) to give you Speed 1. If you enter combat with another player, the speed effect will be removed and you will be on a 5 minutes cooldown before you can use this command again.
@@ -47,7 +53,7 @@ At Level 3, you gain access to the `/speed` command. This can be toggled (run ag
 
 Level 1: Craft & Share Saddles
 
-Level 2: Craft & Use Shulker Boxes
+Level 2: Craft & Use Shulker Boxes, Craft & Use [Special Compass](/docs/Special%20Items/compass.md)
 
 Level 3: Access to `/speed` command
 
