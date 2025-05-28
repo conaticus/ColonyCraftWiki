@@ -53,7 +53,7 @@ At Level 3, you gain access to the `/speed` command. This can be toggled (run ag
 
 Level 1: Craft & Share Saddles
 
-Level 2: Craft & Use Shulker Boxes, Craft & Use [Special Compass](/docs/Special%20Items/compass.md)
+Level 2: Craft & Use Shulker Boxes, Use & Share [Special Compass](/docs/Special%20Items/compass.md)
 
 Level 3: Access to `/speed` command
 
