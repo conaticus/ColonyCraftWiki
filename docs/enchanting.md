@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Enchanting
 
-Enchantment tables can be crafted & used in the same way as vanilla Minecraft, however there are some things to know about the enchantments available to you.
+Enchantment tables can be crafted & used in the same way as vanilla Minecraft, however we have made some modifications to this system and there are some important things to know.
 
 ### Using an Enchanting Table
 
