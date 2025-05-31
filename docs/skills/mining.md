@@ -29,6 +29,7 @@ See Also:
 #### Level 3
 
 - Can Mine Netherite (Ancient Debris)
+- Silk Touch Enchantment
 
 #### Level 4
 
@@ -37,7 +38,7 @@ See Also:
 
 #### Level 5
 
-- N/A
+- Efficiency Enchantment
 
 ### XP Table
 

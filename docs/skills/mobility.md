@@ -51,15 +51,29 @@ At Level 3, you gain access to the `/speed` command. This can be toggled (run ag
 
 ### Levels
 
-Level 1: Craft & Share Saddles
+#### Level 1
 
-Level 2: Craft & Use Shulker Boxes, Use & Share [Special Compass](/docs/Special%20Items/compass.md)
+- Craft & Share Saddles
+- Depth Strider Enchantment
 
-Level 3: Access to `/speed` command
+#### Level 2:
 
-Level 4: N/A
+- Craft & Use Shulker Boxes
+- Craft & Share [Special Compass](/docs/Special%20Items/compass.md)
 
-Level 5: Craft & Use Elytra
+#### Level 3
+
+- Access to `/speed` command
+- Feather Falling enchantment
+
+#### Level 4
+
+- Swift Sneak Enchantment
+- Respiration Enchantment
+
+#### Level 5
+
+- Craft & Use Elytra
 
 ### XP Table
 

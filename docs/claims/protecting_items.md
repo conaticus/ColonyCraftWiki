@@ -14,7 +14,6 @@ It's important that these containers are not left out in the open, and are ideal
 Here is a list of containers that can be opened by anyone:
 
 - Chest
-- Trapped Chest
 - Barrel
 - Dispenser
 - Dropper

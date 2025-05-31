@@ -22,6 +22,7 @@ The Engineer skill is a special skill that is progressed when completing any oth
 #### Level 2
 
 - Can Create Colonies
+- Craft & Share Enchanting Table
 - Up to 3 Claims
 - Up to 10,000 Blocks Per Claim
 - Can craft & use dropper, hopper & daylight sensor
