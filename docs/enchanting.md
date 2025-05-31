@@ -37,6 +37,7 @@ Here is a list of all the enchantments available:
 | :--------------------------------------------------------------------------------: | :-------------------: |
 | Power<br/>Punch<br/>Knockback<br/>Silk Touch<br/>Depth Strider<br/>Feather Falling | One Layer (11 Books)  |
 |      Sharpness<br/>Efficiency<br/>Protection<br/>Respiration<br/>Swift Sneak       | Two Layers (22 Books) |
+|                                     Unbreaking                                     |   No Books Required   |
 
 ### Maximum Enchantment Levels
 
