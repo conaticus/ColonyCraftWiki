@@ -26,6 +26,51 @@ Seeds can only be planted on claimed land, follow our [Claiming Land](/docs/clai
 **Growth Rates** \
 Crops that are placed inside a claim grow 2x slower than usual rates in Minecraft. This is increased to the usual rate when reaching Level 3. When you are offline, crops grow 4x slower, no matter what level the player is.
 
+### Animal Farming (beta)
+
+:::warning Discalimer
+This feature is in beta, while it is safe to use, it may cause unexpected behaviour. Please report any bugs found in the `#bug-report` channel in our Discord Server.
+:::
+
+Animal farming requires Farming Level 2 to be started ([See Level Perks](#levels)).
+
+We have completely overhauled the way that farming animals working in Minecraft!
+
+You can assign animals to your claim, which can be grown by using animal feeders. The more an animal has grown, the more meat and other materials will be dropped when it is killed. Note that each claim can have a **maximum of 10 animals**.
+
+The following animals can be farmed in Colony Craft:
+
+- Cow
+- Pig
+- Chicken
+- Sheep
+
+To start your farm:
+
+1. Craft Animal Feeders & Place on your Claim ([See Animal Feeder Recipe](/docs/recipes/animal-feeder.md))
+2. Fill Animal Feeders with Food (you can use any crop/plant)
+3. Lure an animal to your claim (see [Claims Guide](/docs/claims/claims.md))
+4. Feed it its preferred food by right-clicking (ensure animal is hungry first)
+5. Refill Feeders as Needed
+6. Wait for Animals to Grow
+
+:::info Tips
+
+- Animals will eat from a feeder every 5 minutes, and each feed will give them 5% growth
+- A feeder will become empty after it has been eaten from 7 times, and will need refilling
+- Ensure animals cannot climb over the feeders and escape their pen
+- Place more feeders in the claim so that they take longer to empty, and so that animals don't fight for the same feeder
+- Ensure animals have no way to escape your claim, or walk outside of your claimed area, otherwise they will automatically lose their growth progress
+  :::
+
+<img src="/img/animalfarming.gif" />
+
+When an animal is killed, they will drop a meat and any materials associated with that animal. The growth of the animal determines how much meat & materials they will drop:
+<img src="/img/animaldrops.gif" />
+
+An animal will have a green "Fully Grown" indicator when they have grown to their maximum potential, their maximum growth will depend on your [Farming Level](#levels):
+<img src="/img/fullygrown.png" width="80%" />
+
 ### Bees
 
 :::warning Disclaimer
@@ -70,15 +115,33 @@ At level 1 you are able to craft bonemeal. This can be used to accelerate the gr
 
 ### Levels
 
-Level 1: 20 Crops Per Claim, Can Use Bonemeal
+#### Level 1
 
-Level 2: 40 Crops Per Claim, Can Cook Food
+- 20 Crops Per Claim
+  Can Use Bonemeal
 
-Level 3: Can Harvest Honey, Crops Grow 2x Faster
+#### Level 2
 
-Level 4: 60 Crops Per Claim, Can Craft Bee Hive ([Vanilla Recipe](https://minecraft.fandom.com/wiki/Beehive#Crafting))
+- 40 Crops Per Claim
+- Can Farm Animals (Max 20% Growth)
+- Can Cook Food
 
-Level 5: 100 Crops per Claim
+#### Level 3
+
+- Can Harvest Honey
+- Crops Grow 2x Faster
+- Max Animal Growth to 45%
+
+#### Level 4
+
+- 60 Crops Per Claim
+- Can Craft Bee Hive ([Vanilla Recipe](https://minecraft.fandom.com/wiki/Beehive#Crafting))
+- Max Animal Growth to 70%
+
+#### Level 5
+
+- 100 Crops per Claim
+- Max Animal Growth to 100%
 
 ### XP Table
 
@@ -86,8 +149,11 @@ XP gained for harvesting crops/food sources:
 
 |         Harvest          | XP Amount |
 | :----------------------: | :-------: |
-|          Honey           |    200    |
-| Wheat, Carrots, Potatoes |    100    |
+|          Honey           |    100    |
+| Wheat, Carrots, Potatoes |    80     |
 |  Melon, Pumpkin, Cocoa   |    25     |
 
-You can also gain XP for cooking meat in a furnace **(15XP per Cooked Meat)**.
+You can also gain XP from the following:
+
+- Cooking Meat in a Furnace: **8XP per Cooked Meat**
+- Growing Animals: **50XP per 20% Growth**
