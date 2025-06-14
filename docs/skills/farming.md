@@ -56,7 +56,7 @@ To start your farm:
 
 :::info Tips
 
-- Animals will eat from a feeder every 2 minutes, and each feed will give them 3% growth
+- Animals will eat from a feeder every minute, and each feed will give them 1% growth
 - A feeder will become empty after it has been eaten from 7 times, and will need refilling
 - Place more feeders in the claim so that they take longer to empty, and so that animals don't fight for the same feeder
 - Ensure animals have no way to escape your claim, or walk outside of your claimed area, otherwise they will automatically lose their growth progress
