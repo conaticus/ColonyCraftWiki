@@ -4,11 +4,6 @@ sidebar_position: 5
 
 # Farming
 
-:::note Disclaimer
-Our skills system is quickly evolving, this article may become outdated. You can check skill perks in game by running: \
-`/skill_perks <Skill Type>`. You can also check the `#changelog` in our Discord Server [(Click Here)](https://discord.gg/zcWwHgQyjN).
-:::
-
 The farming skill can be progressed by harvesting crops. Food is a scarce resource in Colony Craft and farmers are a very useful asset to all players in the server.
 
 Crops can be farmed on your own land or found randomly across the map:
@@ -48,7 +43,7 @@ The following animals can be farmed in Colony Craft:
 To start your farm:
 
 1. Craft Animal Feeders & Place on your Claim ([See Animal Feeder Recipe](/docs/recipes/animal-feeder.md))
-2. Fill Animal Feeders with Food (you can use any crop/plant)
+2. Fill Animal Feeders with Food (you can now only use edible foods for animals such as wheat, carrots & seeds)
 3. Lure an animal to your claim (see [Claims Guide](/docs/claims/claims.md))
 4. Feed it its preferred food by right-clicking (ensure animal is hungry first)
 5. Refill Feeders as Needed
@@ -147,11 +142,11 @@ At level 1 you are able to craft bonemeal. This can be used to accelerate the gr
 
 XP gained for harvesting crops/food sources:
 
-|         Harvest          | XP Amount |
-| :----------------------: | :-------: |
-|          Honey           |    100    |
-| Wheat, Carrots, Potatoes |    80     |
-|  Melon, Pumpkin, Cocoa   |    25     |
+|               Harvest                | XP Amount |
+| :----------------------------------: | :-------: |
+|                Honey                 |    100    |
+|       Wheat, Carrots, Potatoes       |    80     |
+| Melon, Pumpkin, Cocoa, Sweet Berries |    25     |
 
 You can also gain XP from the following:
 

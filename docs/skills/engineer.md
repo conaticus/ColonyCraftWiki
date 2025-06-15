@@ -4,11 +4,6 @@ sidebar_position: 2
 
 # Engineer
 
-:::note Disclaimer
-Our skills system is quickly evolving, this article may become outdated. You can check skill perks in game by running: \
-`/skill_perks <Skill Type>`. You can also check the `#changelog` in our Discord Server [(Click Here)](https://discord.gg/zcWwHgQyjN).
-:::
-
 The Engineer skill is a special skill that is progressed when completing any other skill (by reaching Level 5). When you complete a skill the Engineer Skill will Level Up by One.
 
 ### Levels

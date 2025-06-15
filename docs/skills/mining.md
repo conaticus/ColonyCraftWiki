@@ -4,11 +4,6 @@ sidebar_position: 4
 
 # Mining
 
-:::note Disclaimer
-Our skills system is quickly evolving, this article may become outdated. You can check skill perks in game by running: \
-`/skill_perks <Skill Type>`. You can also check the `#changelog` in our Discord Server [(Click Here)](https://discord.gg/zcWwHgQyjN).
-:::
-
 The mining skill can be progressed by mining ores underground. As you progress you get exclusive access to special underground ores that players without this skill can't mine.
 
 See Also:

@@ -4,11 +4,6 @@ sidebar_position: 3
 
 # Combat
 
-:::note Disclaimer
-Our skills system is quickly evolving, this article may become outdated. You can check skill perks in game by running: \
-`/skill_perks <Skill Type>`. You can also check the `#changelog` in our Discord Server [(Click Here)](https://discord.gg/zcWwHgQyjN).
-:::
-
 The combat skill can be progressed by killing mobs in the game. You unlock various Netherite tools as your progress (see [Netherite Recipes](/docs/recipes/netherite-tools-armour.md))
 
 ### Levels

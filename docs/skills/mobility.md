@@ -4,11 +4,6 @@ sidebar_position: 6
 
 # Mobility
 
-:::note disclaimer
-Our skills system is quickly evolving, this article may become outdated. you can check skill perks in game by running: \
-`/skill_perks <skill type>`. you can also check the `#changelog` in our discord server [(click here)](https://discord.gg/zcwwhgqyjn).
-:::
-
 The mobility skill is progressed by moving long distances & carrying valuables.
 
 ### Gaining XP
