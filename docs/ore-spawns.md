@@ -38,10 +38,10 @@ The rest of the ores that occur spawn at vanilla Minecraft Y Levels (check Minec
 
 All ores in Colony Craft spawn across the whole map, however there are specific spots on the map where they may spawn more commonly. You can visit our Map Viewer here to check out the hotspots & their coordinates:
 
-### [https://colonycraft.patato.me/](https://colonycraft.patato.me/)
+### [https://colonycraft.itsbruno.dev/](https://colonycraft.itsbruno.dev/)
 
-<a href="https://colonycraft.patato.me/" target="_blank" rel="noopener noreferrer">
-    <img src="/img/mapviewer.png" />
+<a href="https://colonycraft.itsbruno.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="/img/map.gif" />
 </a>
 
 See Also:
