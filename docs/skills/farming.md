@@ -21,6 +21,12 @@ Seeds can only be planted on claimed land, follow our [Claiming Land](/docs/clai
 **Growth Rates** \
 Crops that are placed inside a claim grow 2x slower than usual rates in Minecraft. This is increased to the usual rate when reaching Level 3. When you are offline, crops grow 4x slower, no matter what level the player is.
 
+### Bonemeal
+
+At level 1 you are able to craft bonemeal. This can be used to accelerate the growth of your crops. Bones are required to craft bonemeal, however, which can only be obtained by players with the Combat Skill [(Learn More)](/docs/skills/combat.md#bones).
+
+You can also find bone blocks in the ocean, bone blocks can be crafted into 2 bonemeal <strong>([See Recipe Here](/docs/recipes/bonemeal))</strong>:
+
 ### Animal Farming (beta)
 
 :::warning Discalimer
@@ -103,10 +109,6 @@ If a bee with necter is lured (using a flower), or flies over your crops, it has
 At Level 3 you can also harvest honey from bees nests which can be an excellent food source for players. At Level 4 you can craft bee hives to place directly in front of your farms (to pollenate crops faster).
 
 You can use a bottle/shears to harvest honey from a bees nest or hive. Harvesting honey from either of these will give you [XP](#xp-table)!
-
-### Bonemeal
-
-At level 1 you are able to craft bonemeal. This can be used to accelerate the growth of your crops. Bones are required to craft bonemeal, however, which can only be obtained by players with the Combat Skill [(Learn More)](/docs/skills/combat.md#bones).
 
 ### Levels
 
