@@ -25,6 +25,6 @@ To find out where you are at any time, you can use the `/map` command, and it wi
 <br />
 <br />
 
-At [Mobility](/docs/skills/Mobility) Level 2, you also unlock a special compass so you can navigate to specific co-ordinates on the map <strong>([See Guide Here](/docs/Special%20Items/compass))</strong>
+At [Mobility](/docs/skills/mobility) Level 2, you also unlock a special compass so you can navigate to specific co-ordinates on the map <strong>([See Guide Here](/docs/Special%20Items/compass))</strong>
 
 <img src="/img/compass.png" width="60%" />
