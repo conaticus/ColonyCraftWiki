@@ -36,7 +36,7 @@ The combat skill can be progressed by killing mobs in the game. You unlock vario
 
 Bones are an item that can **only** be obtained by players with the Combat skill (starting from Level 0). These can be dropped by Skeletons. This is beneficial for farmers who might want to craft this into bonemeal.
 
-If you kill a skeleton with a bow, there is a 2x higher chance that a skeleton will drop bones.
+In Colony Craft, skeletons start with a 1/16 chance of dropping 1 bone. If you kill a skeleton with an axe, there is a 1/8 chance it will drop bones. If you kill a skeleton with a bow, it has a 1/4 chance of dropping bones.
 
 ### XP Bonuses
 
