@@ -12,7 +12,7 @@ The mobility skill is progressed by moving long distances & carrying valuables.
 Walking around in circles will not gain you XP, you have to actively move long distances for XP to be counted.
 :::
 
-Most of your XP for this skill can be gained by carrying valuables in your inventory over long distances. Every 300 blocks moved from your previous location will give you 300XP and a bonus for how many valuables you are carrying, including any items inside shulker boxes. You can only get a maximum XP bonus of 2,000XP.
+Most of your XP for this skill can be gained by carrying valuables in your inventory over long distances. Every 300 blocks moved from your previous location will give you 300XP and a bonus for how many valuables you are carrying, including any items inside shulker boxes. You can only get a maximum XP bonus of 1200XP.
 
 You can refer to the [XP Table](#xp-table) below to find the XP gained for each valuable.
 
@@ -72,11 +72,11 @@ At Level 3, you gain access to the `/speed` command. This can be toggled (run ag
 
 ### XP Table
 
-|                    Valuable                    | XP Per Item |
-| :--------------------------------------------: | :---------: |
-|            Strong Protection Block             |     40      |
-|            Medium Protection Block             |     20      |
-| Emerald, Valtronium, Netherite, Ancient Debris |     10      |
-|             Weak Protection Block              |      8      |
-|               Acanthite, Diamond               |      5      |
-|              Iron, Redstone, Gold              |      2      |
+|              Valuable              | XP Per Item |
+|:----------------------------------:|:-----------:|
+|       Strong Protection Block      |      20     |
+|       Medium Protection Block      |      8      |
+|           Valtronium Ore           |      5      |
+| Ancient Debris, Netherite, Diamond |      5      |
+|               Emerald              |      4      |
+|            Acanthite Ore           |      2      |

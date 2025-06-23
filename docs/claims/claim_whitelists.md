@@ -6,6 +6,8 @@ sidebar_position: 2
 
 Whitelisting players to your land will give them access to do anything on your land. Whitelisted players will not be able to manage whitelists on your claim or do operations such as editing the dimensions/deleting it.
 
+### Whitelists
+
 #### Whitelist Player
 
 Whitelist a specific player to your plot by running `/whitelist_player <playername>`
@@ -23,6 +25,12 @@ Whitelist all players in your colony with `/whitelist_colony`
 #### List Whitelists
 
 List all whitelists to your plot with `/whitelists`
+
+### Blacklists
+
+:::info Bed Spawns
+Players who were previously whitelisted, and had a bed spawn point inside your claim, will no longer spawn at that bed if their whitelist is removed.
+:::
 
 #### Blacklist Player
 

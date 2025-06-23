@@ -20,7 +20,7 @@ To begin with you are limited to **one claim** that is a maximum of **2,500 Bloc
 See the [Engineer](/docs/skills/engineer.md) skill for how you can claim more land.
 :::
 
-1. Run the `/claim_mode` command to enter claim mode
+1. Run the `/claim_mode_toggle` command to enter claim mode
 2. Punch the two corners to define the dimensions of the claim
 3. Run `/claim_confirm` command to save the claim
 
@@ -44,7 +44,7 @@ Editing a claim will destroy all crops inside it.
 #### Edit Dimensions
 
 1. Stand over an existing claim
-2. Run `/claim_mode` command
+2. Run `/claim_mode_toggle` command
 3. Define the new dimensions of your plot
 4. Run `/claim_confirm` & `/confirm edit` commands to save
 

@@ -25,7 +25,7 @@ Crops that are placed inside a claim grow 2x slower than usual rates in Minecraf
 
 At level 1 you are able to craft bonemeal. This can be used to accelerate the growth of your crops. Bones are required to craft bonemeal, however, which can only be obtained by players with the Combat Skill [(Learn More)](/docs/skills/combat.md#bones).
 
-You can also find bone blocks in the ocean, bone blocks can be crafted into 2 bonemeal <strong>([See Recipe Here](/docs/recipes/bonemeal))</strong>:
+You can also find bone blocks in deep ocean which can be crafted into bonemeal <strong>([See Recipe Here](/docs/recipes/bonemeal))</strong>
 
 ### Animal Farming (beta)
 
