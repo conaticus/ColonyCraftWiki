@@ -42,7 +42,9 @@ See Compass Guide: [Click Here](/docs/Special%20Items/compass.md)
 
 ### `/speed` command
 
-At Level 3, you gain access to the `/speed` command. This can be toggled (run again to turn it off) to give you Speed 1. If you enter combat with another player, the speed effect will be removed and you will be on a 5 minutes cooldown before you can use this command again.
+At Level 3, you gain access to the `/speed` command. This can be toggled (run again to turn it off) to give you Speed 1, and faster movement when riding horses.
+
+If you enter combat with another player, the speed effect will be removed and you will be on a 5 minutes cooldown before you can use this command again.
 
 ### Levels
 
@@ -73,10 +75,10 @@ At Level 3, you gain access to the `/speed` command. This can be toggled (run ag
 ### XP Table
 
 |              Valuable              | XP Per Item |
-|:----------------------------------:|:-----------:|
-|       Strong Protection Block      |      20     |
-|       Medium Protection Block      |      8      |
+| :--------------------------------: | :---------: |
+|      Strong Protection Block       |     20      |
+|      Medium Protection Block       |      8      |
 |           Valtronium Ore           |      5      |
 | Ancient Debris, Netherite, Diamond |      5      |
-|               Emerald              |      4      |
-|            Acanthite Ore           |      2      |
+|              Emerald               |      4      |
+|           Acanthite Ore            |      2      |
