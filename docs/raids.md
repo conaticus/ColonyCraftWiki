@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Raids
+# Raiding Bases
 
 In Colony Craft you can raid other people's bases and steal the items kept inside them. In order to raid other people's bases, you first need a Raid Pickaxe (see [Raid Pickaxe Recipes](/docs/recipes/raid-pickaxes.md)). Fortunately, there are no skill requirements to obtain the ores or recipes for Raid Pickaxes.
 
