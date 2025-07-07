@@ -16,7 +16,7 @@ Mobs don't spawn in a Colony's controlled land so you don't have to worry about 
 
 Each colony has its own "Colony Core" that is placed when the Colony is created. This is the heart of a colony and your colony depends on this to remain stable.
 
-A colony core is vulnerable and can be destroyed by raiders. If a colony core is destroyed, your colony is deleted forever and all controlled land is lost. See the [Colony Raids](/docs/raids-colonies.md) guide to learn how to raid a colony core and take down a colony!
+A colony core is vulnerable and can be destroyed by raiders. If a colony core is destroyed, your colony is deleted forever and all controlled land is lost. See the [Colony Raids](/docs/raiding-colonies.md) guide to learn how to raid a colony core and take down a colony!
 
 <img src="/img/colonycore.png" width="75%" />
 
