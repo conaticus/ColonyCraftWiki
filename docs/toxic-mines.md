@@ -10,9 +10,6 @@ In Colony Craft, there are various Ore Hotspots where ores spawn abnormally high
 <br />
 <br />
 
-Toxic mines do not start until Y Level -10.
-:::
-
 Some ore hospots contain toxic mines. A toxic mine is an area underground that is filled with toxic gas, which is not safe to enter without a [Gas Mask](/docs/recipes/gas-mask.md):
 
 <img src="/img/toxicmine.gif" width="60%" />
