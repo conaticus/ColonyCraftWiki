@@ -1,8 +1,8 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 ---
 
-# Ores & Locations
+# Ores & Locations (Outdated)
 
 ### Obtaining Ores
 
