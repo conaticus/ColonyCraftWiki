@@ -25,5 +25,11 @@ A Gas Mask's filter will become full after **30 minutes** of usage in a toxic ar
 
 Gas Masks have a limited durability as their filters can become full, when the filter is full (durability reaching 0), the gas mask will only be partially effective in toxic areas.
 
+To repair a gasmask, you must place it in a crafting table and surround it with Yellow Wool:
+<img src="/img/gasmaskrepairrecipe.png" />
+
+<br />
+<br />
+
 You can view a Gas Mask's remaining durability by hovering over it:
 <img src="/img/durabilityhover.png" width="75%" />
