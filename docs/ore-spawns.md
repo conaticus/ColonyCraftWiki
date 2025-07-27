@@ -2,7 +2,27 @@
 sidebar_position: 9
 ---
 
-# Ores & Locations (Outdated)
+# Ores & Locations
+
+:::warning
+This page is outdated and is a work in progress. Please see the Toxic Mines page instead for an updated ore distribution:<br/> **[Click Here](/docs/toxic-mines.md)**
+:::
+
+---
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+# Outdated
 
 ### Obtaining Ores
 
