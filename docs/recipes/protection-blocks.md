@@ -29,4 +29,4 @@ Protection blocks can be used to protect chests inside your claims from being ra
 
 See Also:
 
-- [Ores & Locations](/docs/ore-spawns.md)
+- [Ore Hotspots & Toxic Mines](/docs/ores-and-toxic-mines.md)

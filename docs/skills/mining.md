@@ -8,7 +8,7 @@ The mining skill can be progressed by mining ores underground. As you progress y
 
 See Also:
 
-- [Ores & Locations](/docs/ore-spawns.md)
+- [Ore Hotspots & Toxic Mines](/docs/ores-and-toxic-mines.md)
 - [Protection Block Recipes](/docs/recipes/protection-blocks.md)
 
 ### Levels

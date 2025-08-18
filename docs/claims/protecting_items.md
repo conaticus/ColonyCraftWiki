@@ -34,7 +34,7 @@ Protection blocks are special blocks that can make it difficult for raiders to a
 - Medium Protection Block
 - Strong Protection Block
 
-See the [Protection Block Recipes](/docs/recipes/protection-blocks.md) to learn how to craft these. All players can mine Limonite Ore (see [Ores & Locations](/docs/ore-spawns.md)) which can be used to make the Weak Protection Block. The rest require ores that can only be mined by players with the Mining Skill (see [Mining Levels](/docs/skills/mining.md#levels)).
+See the [Protection Block Recipes](/docs/recipes/protection-blocks.md) to learn how to craft these. All players can mine Limonite Ore (see [Ores Hotspots & Toxic Mines](/docs/ores-and-toxic-mines.md)) which can be used to make the Weak Protection Block. The rest require ores that can only be mined by players with the Mining Skill (see [Mining Levels](/docs/skills/mining.md#levels)).
 
 :::info Tips
 

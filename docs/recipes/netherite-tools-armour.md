@@ -6,6 +6,6 @@ sidebar_position: 3
 
 As there is no Nether in Colony Craft, we have simplified the crafting process for Netherite items to work like overworld ores in Minecraft like diamonds, iron etc.
 
-See [Ores & Locations](/docs/ore-spawns) to learn where to find Netherite.
+See [Ore Hotspots & Toxic Mines](/docs/ores-and-toxic-mines.md) to learn where to find Netherite.
 
 <img src="/img/Netherite.gif" size="35%" />
