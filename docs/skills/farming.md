@@ -33,7 +33,7 @@ You can also find bone blocks in deep ocean which can be crafted into bonemeal <
 This feature is in beta, while it is safe to use, it may cause unexpected behaviour. Please report any bugs found in the `#bug-report` channel in our Discord Server.
 :::
 
-Animal farming requires Farming Level 2 to be started ([See Level Perks](#levels)).
+Animal farming can only done by those with the Farming Skill.
 
 We have completely overhauled the way that farming animals working in Minecraft!
 
@@ -120,7 +120,6 @@ You can use a bottle/shears to harvest honey from a bees nest or hive. Harvestin
 #### Level 2
 
 - 40 Crops Per Claim
-- Can Farm Animals (Max 20% Growth)
 - Can Cook Food
 
 #### Level 3
