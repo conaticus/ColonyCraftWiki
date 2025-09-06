@@ -6,9 +6,9 @@ sidebar_position: 3
 
 Colony Craft uses a 12,000 x 6000 map of earth with realistic vegetation & biomes! It can be tricky to find where you are on the map, so we have developed a tool to help you find coordinates. This also allows you to see the locations of [Ore Hotspots](/docs/ores-and-toxic-mines.md)!
 
-### [https://colonycraft.itsbruno.dev/](https://colonycraft.itsbruno.dev/)
+### [https://map.colonycraft.org/](https://map.colonycraft.org/)
 
-<a href="https://colonycraft.itsbruno.dev/" target="_blank" rel="noopener noreferrer">
+<a href="https://map.colonycraft.org/" target="_blank" rel="noopener noreferrer">
     <img src="/img/map.gif" />
 </a>
 

@@ -6,10 +6,13 @@ sidebar_position: 8
 
 ## Ore Distribution
 
-There are various Ore Hotspots across the map where ores spawn at higher rates than usual. See the map of ore distrubutions here:
-<img src="/img/oredistribution.jpg" />
+There are various Ore Hotspots across the map where ores spawn at higher rates than usual. See the map of ore distrubutions here on our online map viewer:
 
-You match this with our [Online Map Viewer](https://colonycraft.itsbruno.dev/) to find the coordinates of each hotspot (map viewer will be updated with new hotspots soon).
+### [https://map.colonycraft.org/](https://map.colonycraft.org/)
+
+<a href="https://map.colonycraft.org/" target="_blank" rel="noopener noreferrer">
+    <img src="/img/map.gif" />
+</a>
 
 ## Important Notes
 
@@ -43,7 +46,7 @@ Here is a list of all the Y levels that each ore strictly spawns at in a hotspot
 
 ## Special Ores
 
-Colony Craft spawns various special ores that do not typically generate in the overworld in vanilla Minecraft. These ores have their own hotspots however they are not shown on the map and must be found by players. These have various uses that you can see in [Recipes](/docs/category/recipes).
+Colony Craft spawns various special ores that do not typically generate in the overworld in vanilla Minecraft. These have various uses that you can see in [Recipes](/docs/category/recipes).
 
 #### Limonite Ore
 
