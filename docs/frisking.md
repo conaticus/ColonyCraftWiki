@@ -10,4 +10,4 @@ To frisk someone, you must be within one block of the other player, and when in 
 
 Usage: `/frisk <player>`
 
-<img src="/img/frisking.gif" />
+<img src="/img/frisking.gif" width="150%" />
