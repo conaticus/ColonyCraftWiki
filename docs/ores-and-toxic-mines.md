@@ -60,7 +60,7 @@ Colony Craft spawns various special ores that do not typically generate in the o
 
 #### Valtronium Ore
 
-- Minimum Pickaxe: Netherite Pickaxe
+- Minimum Pickaxe: Diamond Pickaxe
 - Y Level: -30 and Below
 
 ## Toxic Mines

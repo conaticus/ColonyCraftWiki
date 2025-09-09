@@ -115,28 +115,35 @@ You can use a bottle/shears to harvest honey from a bees nest or hive. Harvestin
 #### Level 1
 
 - 20 Crops Per Claim
-  Can Use Bonemeal
+- Can Use Bonemeal
+- +25% Faster Cooking
+- Max Animal Growth to 15%
 
 #### Level 2
 
 - 40 Crops Per Claim
-- Can Cook Food
+- +30% Faster Cooking
+- Max Animal Growth to 30%
 
 #### Level 3
 
 - Can Harvest Honey
 - Crops Grow 2x Faster
+- +30% Faster Cooking
+- Can Craft Smoker
 - Max Animal Growth to 45%
 
 #### Level 4
 
 - 60 Crops Per Claim
 - Can Craft Bee Hive ([Vanilla Recipe](https://minecraft.fandom.com/wiki/Beehive#Crafting))
+- +25% Faster Cooking
 - Max Animal Growth to 70%
 
 #### Level 5
 
 - 100 Crops per Claim
+- +30% Faster Cooking
 - Max Animal Growth to 100%
 
 ### XP Table
@@ -151,5 +158,5 @@ XP gained for harvesting crops/food sources:
 
 You can also gain XP from the following:
 
-- Cooking Meat in a Furnace: **8XP per Cooked Meat**
+- Cooking Meat in a Furnace: **4XP per Cooked Meat**
 - Growing Animals: **50XP per 20% Growth**

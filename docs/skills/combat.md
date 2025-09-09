@@ -32,11 +32,11 @@ The combat skill can be progressed by killing mobs in the game. You unlock vario
 - Can Craft & Use Netherite Armour
 - Protection & Sharpness Enchantments
 
-### Bones
+### Bones and Gunpowder
 
-Bones are an item that can **only** be obtained by players with the Combat skill (starting from Level 0). These can be dropped by Skeletons. This is beneficial for farmers who might want to craft this into bonemeal.
+Bones and gunpowder can **only** be obtained by players with the Combat skill (starting from Level 0). These can be dropped by Skeletons. This is beneficial for farmers who might want to craft this into bonemeal, or those who wish to craft fireworks from gunpowder.
 
-In Colony Craft, skeletons start with a 1/16 chance of dropping 1 bone. If you kill a skeleton with an axe, there is a 1/8 chance it will drop bones. If you kill a skeleton with a bow, it has a 1/4 chance of dropping bones.
+In Colony Craft, skeletons start with a 1/8 chance of dropping 1 bone and 1 gunpowder. If you kill a skeleton with an axe, there is a 1/4 chance it will drop bones. If you kill a skeleton with a bow, it has a 1/2 chance of dropping bones.
 
 ### XP Bonuses
 
