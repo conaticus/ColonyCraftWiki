@@ -22,7 +22,7 @@ Once you have a Colony Core, place it where you want your colony to start! You w
 <br />
 <br />
 
-By default your colony will have 30 minutes before it begins to decay. After you have created your colony, you need to place a community chest in your colony's land so that you can add resources to it and increase the decay time. See the [Community Chest Guide](/docs/colonies#community-chest) for more info.
+By default your colony will have 1 hour before it begins to decay. After you have created your colony, you need to place a community chest in your colony's land so that you can add resources to it and increase the decay time. See the [Community Chest Guide](/docs/colonies#community-chest) for more info.
 
 <img src="/img/communitychest.gif" />
 
