@@ -13,7 +13,7 @@ It's important that these containers are not left out in the open, and are ideal
 
 Here is a list of containers that can be opened by anyone:
 
-- Chest
+- Chest (shop chests will only open the buyer menu and are safe)
 - Barrel
 - Dispenser
 - Dropper
