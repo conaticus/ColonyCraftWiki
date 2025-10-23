@@ -26,6 +26,13 @@ Here is a list of containers that can be opened by anyone:
 - Armour Stand
 - Item Frame
 
+### When Can Raids Happen?
+By default, raiders can only break into your claim when you are online. This means that when you are offline, your claim is safe from being broken into (**if all of your land is properly claimed and protected**).
+
+In some cases, you may wish to turn off this mechanism to make your claim raidable when you are online or offline. This sounds counter-intuitive, however, raiders will receive a warning message when a claim owner is offline, which through the process of elimination allows them to identify or narrow down the owner of a claim, who would typically be anonymous.
+
+Making your claim raid-able when you are offline will ensure that your ownership of the claim will remain completely anonymous, which comes with the increased risk of being raided. You can enable this setting by running `/claim set_raidable_offline true`.
+
 ### Using Protection Blocks
 
 Protection blocks are special blocks that can make it difficult for raiders to access your items. There are three tiers:
