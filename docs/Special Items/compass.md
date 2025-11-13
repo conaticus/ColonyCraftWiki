@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Compass
 
-A compass can be crafted by players with [Mobility](/docs/skills/mobility.md) Level 2. This can be done with the [vanilla compass recipe](https://minecraft.fandom.com/wiki/Compass#Crafting).
+A compass can be crafted by all players and be used to navigate the map. This can be done with the [vanilla compass recipe](https://minecraft.fandom.com/wiki/Compass#Crafting).
 
 Compasses can be used to navigate to a specific coordinate on the map. This can be done by:
 
