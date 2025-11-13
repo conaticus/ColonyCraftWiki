@@ -1,29 +1,16 @@
 ---
-sidebar_position: 2
+sidebar_position: 10
 ---
 
 # Engineer
 
-The Engineer skill is a special skill that is progressed when completing any other skill (by reaching Level 5). When you complete a skill the Engineer Skill will Level Up by One.
+The Engineer skill is a special skill that is progressed when completing your primary skill (by reaching Level 5). When you complete your primary skill the Engineer Skill will Level Up .
 
 ### Levels
 
 #### Level 1
 
-- Up to 3 Claims
-- Up to 5,000 Blocks Per Claim
-- Can craft & use redstone, redstone repeater, redstone comparator, sticky piston & piston
-
-#### Level 2
-
-- Can Create Colonies
-- Craft & Share Enchanting Table
-- Up to 5 Claims
-- Up to 10,000 Blocks Per Claim
-- Can craft & use dropper, hopper & daylight sensor
-
-#### Level 3
-
-- Up to 10 Claims
-- Up to 30,000 Blocks Per Claim,
-- Can craft & use trip wire, trapped chest, dispenser, observer
+- Up to 10 Claims (from default of 3)
+- Up to 30,000 Blocks Per Claim (from default of 5,000)
+- Craft and Use all Redstone Components
+- Craft and Share Enchanting Table

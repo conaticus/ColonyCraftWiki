@@ -13,6 +13,6 @@ Raiding a colony works slightly differently to raiding bases in Colony Craft. Ea
 
 When a Colony Core is damaged, this damage is remembered until the colony members repair the Colony Core in their community chest. When a Colony Core is destroyed, the colony will be deleted and all its controlled land will be lost.
 
-To destroy a colony core, unlike raiding bases, you must continue breaking the block until it is fully destroyed:
+To destroy a colony core, like raiding bases, you must continue breaking the block until it is fully destroyed:
 
 <img src="/img/raidcore.gif" />

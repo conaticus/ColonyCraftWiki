@@ -1,8 +1,14 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # Mobility
+
+:::warning
+This skill is temporarily disabled. It will be re-introduced in a future update :D
+:::
+
+---
 
 The mobility skill is progressed by moving long distances & carrying valuables.
 
