@@ -55,7 +55,7 @@ Colony Craft spawns various special ores that do not typically generate in the o
 
 #### Acanthite Ore
 
-- Minimum Pickaxe: Diamond Pickaxe
+- Minimum Pickaxe: Iron Pickaxe
 - Y Level: 0 and Below
 
 #### Valtronium Ore
